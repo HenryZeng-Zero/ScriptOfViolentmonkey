@@ -6,6 +6,8 @@
 // @version     1.1
 // @description 超星尔雅选修课[资源下载]工具
 // @updateURL https://gitee.com/henryzeng/ScriptOfViolentmonkey/raw/master/%E8%B6%85%E6%98%9F%E5%B0%94%E9%9B%85%E9%80%89%E4%BF%AE%E8%AF%BE%5B%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%5D/main.js
+// @homepageURL https://gitee.com/henryzeng/ScriptOfViolentmonkey/tree/master/%E8%B6%85%E6%98%9F%E5%B0%94%E9%9B%85%E9%80%89%E4%BF%AE%E8%AF%BE%5B%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%5D
+// @downloadURL https://gitee.com/henryzeng/ScriptOfViolentmonkey/raw/master/%E8%B6%85%E6%98%9F%E5%B0%94%E9%9B%85%E9%80%89%E4%BF%AE%E8%AF%BE%5B%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%5D/main.js
 // @run-at document-idle
 // ==/UserScript==
 
