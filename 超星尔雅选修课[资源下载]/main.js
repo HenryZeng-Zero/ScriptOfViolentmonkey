@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        超星尔雅选修课[资源下载]
-// @namespace   Violentmonkey Scripts
+// @namespace   HenryZengScript
 // @match       *://mooc1.chaoxing.com/*
 // @grant       none
 // @version     1.1
