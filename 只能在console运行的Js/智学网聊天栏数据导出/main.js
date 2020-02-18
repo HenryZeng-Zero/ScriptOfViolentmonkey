@@ -1,3 +1,4 @@
+// 智学网聊天栏数据导出[All、JustName、JustText]
 function sectence(Persons, Back) {
     var ClassName = Persons.className;
     console.log(Persons.getAttribute('msg-data-index'));
