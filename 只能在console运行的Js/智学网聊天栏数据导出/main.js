@@ -1,3 +1,5 @@
+//获取智学网当前网课的名称
+document.getElementsByClassName('room_name')[0].textContent
 // 智学网聊天栏数据导出[All、JustName、JustText]
 function sectence(Persons, Back) {
     var ClassName = Persons.className;
