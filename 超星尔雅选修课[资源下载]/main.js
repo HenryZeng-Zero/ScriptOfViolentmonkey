@@ -12,8 +12,8 @@
 // ==/UserScript==
 
 function GetUrl(Data) {
-    var patt1 = new RegExp("\\|.*?\\_\\$");
-    return patt1.exec(Data).toString().slice(1, -2);
+    var Get_file_type = new RegExp("\\|.*?\_");
+    return Get_file_type.exec(Data).toString().slice(1, -1)
 }
 
 function Flip_character(Data) {
